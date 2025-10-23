@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74LS08")(type "KiCad")(uri "${KIPRJMOD}/Components/74LS08/74LS08.kicad_sym")(options "")(descr ""))
+  (lib (name "776280-1")(type "KiCad")(uri "${KIPRJMOD}/Components/776280-1/776280-1.kicad_sym")(options "")(descr ""))
+  (lib (name "DT15-4P")(type "KiCad")(uri "${KIPRJMOD}/Components/DT15-4P/DT15-4P.kicad_sym")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/Components/teensy/teensy.pretty-master/teensy.lib")(options "")(descr ""))
+  (lib (name "GRT21BC71E106KE13L")(type "KiCad")(uri "${KIPRJMOD}/Components/reg/reg/Cap10U/GRT21BC71E106KE13L.kicad_sym")(options "")(descr ""))
+  (lib (name "REG1117-5")(type "KiCad")(uri "${KIPRJMOD}/Components/reg/reg/REG1117-5/REG1117-5.kicad_sym")(options "")(descr ""))
+  (lib (name "2N2222A")(type "KiCad")(uri "${KIPRJMOD}/Components/relay/relay/2N2222A/2N2222A.kicad_sym")(options "")(descr ""))
+  (lib (name "J107F1AS123VDC.36")(type "KiCad")(uri "${KIPRJMOD}/Components/relay/relay/J107F1AS123VDC.36/J107F1AS123VDC.36.kicad_sym")(options "")(descr ""))
+)
